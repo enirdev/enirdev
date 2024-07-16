@@ -2,8 +2,8 @@
 
 
 
-- 📖 Tecnóloga em Gestao de TI-Universidade Católica de Brasília
-- 📖 Pós-graduanda em Engenharia de Software - Universidade Estácio
+
+- 📖 Especialista  em Engenharia de Software - Universidade Estácio (2 semestre)
 - 👨‍💻 Estágio em desenvolvimento de Sistemas - Agência Nacional de Transportes Terrestres
 - 👨‍💻 Dev em desenvolvimento de Sistemas -Ethios Consultorias
 
