@@ -6,6 +6,7 @@
 - 📖 Especialista  em Engenharia de Software - Universidade Estácio (2 semestre)
 - 👨‍💻 Estágio em desenvolvimento de Sistemas - Agência Nacional de Transportes Terrestres
 - 👨‍💻 Dev em desenvolvimento de Sistemas -Ethios Consultorias
+-  👨‍💻 Dev  full stack jr. java e angular  -Isoeste Metálica.
 
 
 
